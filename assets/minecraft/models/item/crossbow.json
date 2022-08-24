@@ -1,0 +1,201 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/crossbow_standby"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, 0, -60 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 0, 30 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -90, 0, -55 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -90, 0, 35 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "item/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "item/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1
+            },
+            "model": "item/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "splatoon3/splattershot_jr_white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "splatoon3/luna_blaster_white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "splatoon3/range_blaster_white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "splatoon3/blaster_white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10054
+            },
+            "model": "splatoon3/splattershot_jr_green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10055
+            },
+            "model": "splatoon3/luna_blaster_green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10056
+            },
+            "model": "splatoon3/range_blaster_green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10057
+            },
+            "model": "splatoon3/blaster_green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20054
+            },
+            "model": "splatoon3/splattershot_jr_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20055
+            },
+            "model": "splatoon3/luna_blaster_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20056
+            },
+            "model": "splatoon3/range_blaster_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20057
+            },
+            "model": "splatoon3/blaster_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30054
+            },
+            "model": "splatoon3/splattershot_jr_purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30055
+            },
+            "model": "splatoon3/luna_blaster_purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30056
+            },
+            "model": "splatoon3/range_blaster_purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30057
+            },
+            "model": "splatoon3/blaster_purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40054
+            },
+            "model": "splatoon3/splattershot_jr_yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40055
+            },
+            "model": "splatoon3/luna_blaster_yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40056
+            },
+            "model": "splatoon3/range_blaster_yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40057
+            },
+            "model": "splatoon3/blaster_yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50055
+            },
+            "model": "splatoon3/luna_blaster_red"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50056
+            },
+            "model": "splatoon3/range_blaster_red"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50057
+            },
+            "model": "splatoon3/blaster_red"
+        }
+    ]
+}

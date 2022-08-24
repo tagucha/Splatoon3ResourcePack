@@ -1,0 +1,1514 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/snowball"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1024
+      },
+      "model": "splatoon3/triple_tornado_dispatch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+        "model": "splatoon3/ink_ball/ink_ball_1_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "splatoon3/ink_ball/ink_ball_2_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "splatoon3/ink_ball/ink_ball_3_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "splatoon3/ink_ball/ink_ball_4_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "splatoon3/ink_ball/ink_ball_5_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "splatoon3/ink_ball/ink_ball_6_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "splatoon3/ink_ball/ink_ball_7_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "splatoon3/ink_ball/ink_ball_8_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "splatoon3/ink_ball/ink_ball_9_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "splatoon3/ink_ball/ink_ball_10_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "splatoon3/ink_ball/ink_ball_11_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "splatoon3/ink_ball/ink_ball_12_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "splatoon3/ink_ball/ink_ball_13_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "splatoon3/ink_ball/ink_ball_14_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "splatoon3/ink_ball/ink_ball_15_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "splatoon3/ink_ball/ink_ball_16_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "splatoon3/ink_ball/ink_ball_17_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "splatoon3/ink_ball/ink_ball_18_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "splatoon3/ink_ball/ink_ball_19_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "splatoon3/ink_ball/ink_ball_20_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "splatoon3/ink_ball/ink_ball_21_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "splatoon3/ink_ball/ink_ball_22_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "splatoon3/ink_ball/ink_ball_23_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "splatoon3/ink_ball/ink_ball_24_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "splatoon3/ink_ball/ink_ball_25_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "splatoon3/ink_ball/ink_ball_26_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "splatoon3/ink_ball/ink_ball_27_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "splatoon3/ink_ball/ink_ball_28_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "splatoon3/ink_ball/ink_ball_29_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "splatoon3/ink_ball/ink_ball_30_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "splatoon3/ink_ball/ink_ball_31_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "splatoon3/ink_ball/ink_ball_32_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "splatoon3/ink_ball/ink_ball_33_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "splatoon3/ink_ball/ink_ball_34_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "splatoon3/ink_ball/ink_ball_35_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "splatoon3/ink_ball/ink_ball_36_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "splatoon3/ink_ball/ink_ball_37_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "splatoon3/ink_ball/ink_ball_38_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "splatoon3/ink_ball/ink_ball_39_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "splatoon3/ink_ball/ink_ball_40_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "splatoon3/ink_ball/ink_ball_41_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "splatoon3/ink_ball/ink_ball_42_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "splatoon3/ink_ball/ink_ball_43_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "splatoon3/ink_ball/ink_ball_44_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "splatoon3/ink_ball/ink_ball_45_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "splatoon3/ink_ball/ink_ball_46_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "splatoon3/ink_ball/ink_ball_47_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "splatoon3/ink_ball/ink_ball_48_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "splatoon3/ink_ball/ink_ball_49_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "splatoon3/ink_ball/ink_ball_50_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "splatoon3/ink_ball/ink_ball_1_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "splatoon3/ink_ball/ink_ball_2_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "splatoon3/ink_ball/ink_ball_3_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "splatoon3/ink_ball/ink_ball_4_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
+      "model": "splatoon3/ink_ball/ink_ball_5_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10006
+      },
+      "model": "splatoon3/ink_ball/ink_ball_6_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10007
+      },
+      "model": "splatoon3/ink_ball/ink_ball_7_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10008
+      },
+      "model": "splatoon3/ink_ball/ink_ball_8_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10009
+      },
+      "model": "splatoon3/ink_ball/ink_ball_9_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10010
+      },
+      "model": "splatoon3/ink_ball/ink_ball_10_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10011
+      },
+      "model": "splatoon3/ink_ball/ink_ball_11_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10012
+      },
+      "model": "splatoon3/ink_ball/ink_ball_12_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10013
+      },
+      "model": "splatoon3/ink_ball/ink_ball_13_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10014
+      },
+      "model": "splatoon3/ink_ball/ink_ball_14_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10015
+      },
+      "model": "splatoon3/ink_ball/ink_ball_15_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10016
+      },
+      "model": "splatoon3/ink_ball/ink_ball_16_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10017
+      },
+      "model": "splatoon3/ink_ball/ink_ball_17_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10018
+      },
+      "model": "splatoon3/ink_ball/ink_ball_18_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10019
+      },
+      "model": "splatoon3/ink_ball/ink_ball_19_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10020
+      },
+      "model": "splatoon3/ink_ball/ink_ball_20_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10021
+      },
+      "model": "splatoon3/ink_ball/ink_ball_21_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10022
+      },
+      "model": "splatoon3/ink_ball/ink_ball_22_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10023
+      },
+      "model": "splatoon3/ink_ball/ink_ball_23_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10024
+      },
+      "model": "splatoon3/ink_ball/ink_ball_24_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10025
+      },
+      "model": "splatoon3/ink_ball/ink_ball_25_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10026
+      },
+      "model": "splatoon3/ink_ball/ink_ball_26_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10027
+      },
+      "model": "splatoon3/ink_ball/ink_ball_27_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10028
+      },
+      "model": "splatoon3/ink_ball/ink_ball_28_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10029
+      },
+      "model": "splatoon3/ink_ball/ink_ball_29_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10030
+      },
+      "model": "splatoon3/ink_ball/ink_ball_30_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10031
+      },
+      "model": "splatoon3/ink_ball/ink_ball_31_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10032
+      },
+      "model": "splatoon3/ink_ball/ink_ball_32_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10033
+      },
+      "model": "splatoon3/ink_ball/ink_ball_33_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10034
+      },
+      "model": "splatoon3/ink_ball/ink_ball_34_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10035
+      },
+      "model": "splatoon3/ink_ball/ink_ball_35_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10036
+      },
+      "model": "splatoon3/ink_ball/ink_ball_36_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10037
+      },
+      "model": "splatoon3/ink_ball/ink_ball_37_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10038
+      },
+      "model": "splatoon3/ink_ball/ink_ball_38_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10039
+      },
+      "model": "splatoon3/ink_ball/ink_ball_39_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10040
+      },
+      "model": "splatoon3/ink_ball/ink_ball_40_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10041
+      },
+      "model": "splatoon3/ink_ball/ink_ball_41_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10042
+      },
+      "model": "splatoon3/ink_ball/ink_ball_42_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10043
+      },
+      "model": "splatoon3/ink_ball/ink_ball_43_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10044
+      },
+      "model": "splatoon3/ink_ball/ink_ball_44_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10045
+      },
+      "model": "splatoon3/ink_ball/ink_ball_45_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10046
+      },
+      "model": "splatoon3/ink_ball/ink_ball_46_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10047
+      },
+      "model": "splatoon3/ink_ball/ink_ball_47_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10048
+      },
+      "model": "splatoon3/ink_ball/ink_ball_48_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10049
+      },
+      "model": "splatoon3/ink_ball/ink_ball_49_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10050
+      },
+      "model": "splatoon3/ink_ball/ink_ball_50_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20001
+      },
+      "model": "splatoon3/ink_ball/ink_ball_1_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20002
+      },
+      "model": "splatoon3/ink_ball/ink_ball_2_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20003
+      },
+      "model": "splatoon3/ink_ball/ink_ball_3_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20004
+      },
+      "model": "splatoon3/ink_ball/ink_ball_4_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20005
+      },
+      "model": "splatoon3/ink_ball/ink_ball_5_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20006
+      },
+      "model": "splatoon3/ink_ball/ink_ball_6_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20007
+      },
+      "model": "splatoon3/ink_ball/ink_ball_7_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20008
+      },
+      "model": "splatoon3/ink_ball/ink_ball_8_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20009
+      },
+      "model": "splatoon3/ink_ball/ink_ball_9_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20010
+      },
+      "model": "splatoon3/ink_ball/ink_ball_10_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20011
+      },
+      "model": "splatoon3/ink_ball/ink_ball_11_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20012
+      },
+      "model": "splatoon3/ink_ball/ink_ball_12_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20013
+      },
+      "model": "splatoon3/ink_ball/ink_ball_13_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20014
+      },
+      "model": "splatoon3/ink_ball/ink_ball_14_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20015
+      },
+      "model": "splatoon3/ink_ball/ink_ball_15_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20016
+      },
+      "model": "splatoon3/ink_ball/ink_ball_16_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20017
+      },
+      "model": "splatoon3/ink_ball/ink_ball_17_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20018
+      },
+      "model": "splatoon3/ink_ball/ink_ball_18_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20019
+      },
+      "model": "splatoon3/ink_ball/ink_ball_19_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20020
+      },
+      "model": "splatoon3/ink_ball/ink_ball_20_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20021
+      },
+      "model": "splatoon3/ink_ball/ink_ball_21_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20022
+      },
+      "model": "splatoon3/ink_ball/ink_ball_22_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20023
+      },
+      "model": "splatoon3/ink_ball/ink_ball_23_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20024
+      },
+      "model": "splatoon3/ink_ball/ink_ball_24_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20025
+      },
+      "model": "splatoon3/ink_ball/ink_ball_25_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20026
+      },
+      "model": "splatoon3/ink_ball/ink_ball_26_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20027
+      },
+      "model": "splatoon3/ink_ball/ink_ball_27_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20028
+      },
+      "model": "splatoon3/ink_ball/ink_ball_28_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20029
+      },
+      "model": "splatoon3/ink_ball/ink_ball_29_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20030
+      },
+      "model": "splatoon3/ink_ball/ink_ball_30_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20031
+      },
+      "model": "splatoon3/ink_ball/ink_ball_31_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20032
+      },
+      "model": "splatoon3/ink_ball/ink_ball_32_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20033
+      },
+      "model": "splatoon3/ink_ball/ink_ball_33_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20034
+      },
+      "model": "splatoon3/ink_ball/ink_ball_34_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20035
+      },
+      "model": "splatoon3/ink_ball/ink_ball_35_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20036
+      },
+      "model": "splatoon3/ink_ball/ink_ball_36_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20037
+      },
+      "model": "splatoon3/ink_ball/ink_ball_37_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20038
+      },
+      "model": "splatoon3/ink_ball/ink_ball_38_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20039
+      },
+      "model": "splatoon3/ink_ball/ink_ball_39_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20040
+      },
+      "model": "splatoon3/ink_ball/ink_ball_40_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20041
+      },
+      "model": "splatoon3/ink_ball/ink_ball_41_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20042
+      },
+      "model": "splatoon3/ink_ball/ink_ball_42_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20043
+      },
+      "model": "splatoon3/ink_ball/ink_ball_43_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20044
+      },
+      "model": "splatoon3/ink_ball/ink_ball_44_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20045
+      },
+      "model": "splatoon3/ink_ball/ink_ball_45_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20046
+      },
+      "model": "splatoon3/ink_ball/ink_ball_46_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20047
+      },
+      "model": "splatoon3/ink_ball/ink_ball_47_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20048
+      },
+      "model": "splatoon3/ink_ball/ink_ball_48_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20049
+      },
+      "model": "splatoon3/ink_ball/ink_ball_49_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20050
+      },
+      "model": "splatoon3/ink_ball/ink_ball_50_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30001
+      },
+      "model": "splatoon3/ink_ball/ink_ball_1_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30002
+      },
+      "model": "splatoon3/ink_ball/ink_ball_2_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30003
+      },
+      "model": "splatoon3/ink_ball/ink_ball_3_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30004
+      },
+      "model": "splatoon3/ink_ball/ink_ball_4_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30005
+      },
+      "model": "splatoon3/ink_ball/ink_ball_5_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30006
+      },
+      "model": "splatoon3/ink_ball/ink_ball_6_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30007
+      },
+      "model": "splatoon3/ink_ball/ink_ball_7_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30008
+      },
+      "model": "splatoon3/ink_ball/ink_ball_8_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30009
+      },
+      "model": "splatoon3/ink_ball/ink_ball_9_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30010
+      },
+      "model": "splatoon3/ink_ball/ink_ball_10_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30011
+      },
+      "model": "splatoon3/ink_ball/ink_ball_11_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30012
+      },
+      "model": "splatoon3/ink_ball/ink_ball_12_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30013
+      },
+      "model": "splatoon3/ink_ball/ink_ball_13_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30014
+      },
+      "model": "splatoon3/ink_ball/ink_ball_14_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30015
+      },
+      "model": "splatoon3/ink_ball/ink_ball_15_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30016
+      },
+      "model": "splatoon3/ink_ball/ink_ball_16_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30017
+      },
+      "model": "splatoon3/ink_ball/ink_ball_17_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30018
+      },
+      "model": "splatoon3/ink_ball/ink_ball_18_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30019
+      },
+      "model": "splatoon3/ink_ball/ink_ball_19_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30020
+      },
+      "model": "splatoon3/ink_ball/ink_ball_20_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30021
+      },
+      "model": "splatoon3/ink_ball/ink_ball_21_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30022
+      },
+      "model": "splatoon3/ink_ball/ink_ball_22_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30023
+      },
+      "model": "splatoon3/ink_ball/ink_ball_23_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30024
+      },
+      "model": "splatoon3/ink_ball/ink_ball_24_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30025
+      },
+      "model": "splatoon3/ink_ball/ink_ball_25_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30026
+      },
+      "model": "splatoon3/ink_ball/ink_ball_26_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30027
+      },
+      "model": "splatoon3/ink_ball/ink_ball_27_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30028
+      },
+      "model": "splatoon3/ink_ball/ink_ball_28_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30029
+      },
+      "model": "splatoon3/ink_ball/ink_ball_29_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30030
+      },
+      "model": "splatoon3/ink_ball/ink_ball_30_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30031
+      },
+      "model": "splatoon3/ink_ball/ink_ball_31_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30032
+      },
+      "model": "splatoon3/ink_ball/ink_ball_32_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30033
+      },
+      "model": "splatoon3/ink_ball/ink_ball_33_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30034
+      },
+      "model": "splatoon3/ink_ball/ink_ball_34_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30035
+      },
+      "model": "splatoon3/ink_ball/ink_ball_35_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30036
+      },
+      "model": "splatoon3/ink_ball/ink_ball_36_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30037
+      },
+      "model": "splatoon3/ink_ball/ink_ball_37_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30038
+      },
+      "model": "splatoon3/ink_ball/ink_ball_38_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30039
+      },
+      "model": "splatoon3/ink_ball/ink_ball_39_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30040
+      },
+      "model": "splatoon3/ink_ball/ink_ball_40_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30041
+      },
+      "model": "splatoon3/ink_ball/ink_ball_41_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30042
+      },
+      "model": "splatoon3/ink_ball/ink_ball_42_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30043
+      },
+      "model": "splatoon3/ink_ball/ink_ball_43_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30044
+      },
+      "model": "splatoon3/ink_ball/ink_ball_44_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30045
+      },
+      "model": "splatoon3/ink_ball/ink_ball_45_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30046
+      },
+      "model": "splatoon3/ink_ball/ink_ball_46_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30047
+      },
+      "model": "splatoon3/ink_ball/ink_ball_47_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30048
+      },
+      "model": "splatoon3/ink_ball/ink_ball_48_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30049
+      },
+      "model": "splatoon3/ink_ball/ink_ball_49_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30050
+      },
+      "model": "splatoon3/ink_ball/ink_ball_50_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40001
+      },
+      "model": "splatoon3/ink_ball/ink_ball_1_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40002
+      },
+      "model": "splatoon3/ink_ball/ink_ball_2_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40003
+      },
+      "model": "splatoon3/ink_ball/ink_ball_3_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40004
+      },
+      "model": "splatoon3/ink_ball/ink_ball_4_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40005
+      },
+      "model": "splatoon3/ink_ball/ink_ball_5_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40006
+      },
+      "model": "splatoon3/ink_ball/ink_ball_6_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40007
+      },
+      "model": "splatoon3/ink_ball/ink_ball_7_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40008
+      },
+      "model": "splatoon3/ink_ball/ink_ball_8_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40009
+      },
+      "model": "splatoon3/ink_ball/ink_ball_9_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40010
+      },
+      "model": "splatoon3/ink_ball/ink_ball_10_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40011
+      },
+      "model": "splatoon3/ink_ball/ink_ball_11_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40012
+      },
+      "model": "splatoon3/ink_ball/ink_ball_12_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40013
+      },
+      "model": "splatoon3/ink_ball/ink_ball_13_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40014
+      },
+      "model": "splatoon3/ink_ball/ink_ball_14_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40015
+      },
+      "model": "splatoon3/ink_ball/ink_ball_15_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40016
+      },
+      "model": "splatoon3/ink_ball/ink_ball_16_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40017
+      },
+      "model": "splatoon3/ink_ball/ink_ball_17_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40018
+      },
+      "model": "splatoon3/ink_ball/ink_ball_18_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40019
+      },
+      "model": "splatoon3/ink_ball/ink_ball_19_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40020
+      },
+      "model": "splatoon3/ink_ball/ink_ball_20_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40021
+      },
+      "model": "splatoon3/ink_ball/ink_ball_21_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40022
+      },
+      "model": "splatoon3/ink_ball/ink_ball_22_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40023
+      },
+      "model": "splatoon3/ink_ball/ink_ball_23_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40024
+      },
+      "model": "splatoon3/ink_ball/ink_ball_24_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40025
+      },
+      "model": "splatoon3/ink_ball/ink_ball_25_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40026
+      },
+      "model": "splatoon3/ink_ball/ink_ball_26_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40027
+      },
+      "model": "splatoon3/ink_ball/ink_ball_27_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40028
+      },
+      "model": "splatoon3/ink_ball/ink_ball_28_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40029
+      },
+      "model": "splatoon3/ink_ball/ink_ball_29_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40030
+      },
+      "model": "splatoon3/ink_ball/ink_ball_30_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40031
+      },
+      "model": "splatoon3/ink_ball/ink_ball_31_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40032
+      },
+      "model": "splatoon3/ink_ball/ink_ball_32_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40033
+      },
+      "model": "splatoon3/ink_ball/ink_ball_33_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40034
+      },
+      "model": "splatoon3/ink_ball/ink_ball_34_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40035
+      },
+      "model": "splatoon3/ink_ball/ink_ball_35_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40036
+      },
+      "model": "splatoon3/ink_ball/ink_ball_36_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40037
+      },
+      "model": "splatoon3/ink_ball/ink_ball_37_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40038
+      },
+      "model": "splatoon3/ink_ball/ink_ball_38_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40039
+      },
+      "model": "splatoon3/ink_ball/ink_ball_39_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40040
+      },
+      "model": "splatoon3/ink_ball/ink_ball_40_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40041
+      },
+      "model": "splatoon3/ink_ball/ink_ball_41_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40042
+      },
+      "model": "splatoon3/ink_ball/ink_ball_42_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40043
+      },
+      "model": "splatoon3/ink_ball/ink_ball_43_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40044
+      },
+      "model": "splatoon3/ink_ball/ink_ball_44_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40045
+      },
+      "model": "splatoon3/ink_ball/ink_ball_45_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40046
+      },
+      "model": "splatoon3/ink_ball/ink_ball_46_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40047
+      },
+      "model": "splatoon3/ink_ball/ink_ball_47_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40048
+      },
+      "model": "splatoon3/ink_ball/ink_ball_48_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40049
+      },
+      "model": "splatoon3/ink_ball/ink_ball_49_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40050
+      },
+      "model": "splatoon3/ink_ball/ink_ball_50_yellow"
+    }
+  ]
+}

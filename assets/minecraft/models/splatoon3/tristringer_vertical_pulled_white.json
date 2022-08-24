@@ -1,0 +1,6 @@
+{
+    "parent": "splatoon3/tristringer_vertical_white",
+    "textures": {
+        "8": "splatoon3/stringer_string_pulled_white"
+    }
+}

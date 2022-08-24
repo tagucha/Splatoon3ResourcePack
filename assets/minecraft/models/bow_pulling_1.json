@@ -1,0 +1,20 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "item/bow_pulling_1"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1024
+            },
+            "model": "splatoon3/tristringer_horizontal_pulling"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1025
+            },
+            "model": "splatoon3/tristringer_vertical_pulling"
+        }
+    ]
+}

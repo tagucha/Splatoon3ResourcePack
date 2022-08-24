@@ -1,0 +1,9 @@
+{
+  "parent": "splatoon3/tristringer_vertical_yellow",
+  "textures": {
+		"2": "splatoon3/stringer_nozzle_side_purple",
+		"5": "splatoon3/stringer_nozzle_middle_purple",
+		"6": "splatoon3/stringer_roll_purple",
+    "8": "splatoon3/stringer_string_purple"
+  }
+}

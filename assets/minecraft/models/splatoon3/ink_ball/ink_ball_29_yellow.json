@@ -1,0 +1,6 @@
+{
+    "parent": "splatoon3/ink_ball/ink_ball_29_white",
+    "textures": {
+        "layer0": "splatoon3/ink_ball_yellow"
+    }
+}

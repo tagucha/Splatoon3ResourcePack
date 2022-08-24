@@ -1,0 +1,8 @@
+{
+    "parent": "splatoon3/luna_blaster_yellow",
+    "textures": {
+    		"1": "splatoon3/luna_blaster_body_red",
+    		"3": "splatoon3/luna_blaster_handle_red",
+    		"5": "splatoon3/luna_blaster_tail_red"
+    }
+}

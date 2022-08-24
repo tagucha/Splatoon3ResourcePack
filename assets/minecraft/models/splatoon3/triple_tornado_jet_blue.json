@@ -1,0 +1,6 @@
+{
+    "parent": "splatoon3/triple_tornado_jet_yellow",
+    "textures": {
+        "6": "splatoon3/triple_tornado_jet_body_blue"
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bow"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -80, 260, -40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -80, -280, 40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "pulling": 51
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 51,
+                "pull": 0.65
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 51,
+                "pull": 0.9
+            },
+            "model": "item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "splatoon3/tristringer_horizontal_white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 51,
+                "pulling": 1,
+                "pull": 0.5
+            },
+            "model": "splatoon3/tristringer_horizontal_pulling_white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 51,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "splatoon3/tristringer_horizontal_pulled_white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 52,
+                "pulling": 1
+            },
+            "model": "splatoon3/tristringer_vertical_white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 52,
+                "pulling": 1,
+                "pull": 0.5
+            },
+            "model": "splatoon3/tristringer_vertical_pulling_white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 52,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "splatoon3/tristringer_vertical_pulled_white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10051
+            },
+            "model": "splatoon3/tristringer_horizontal_green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10051,
+                "pulling": 1,
+                "pull": 0.5
+            },
+            "model": "splatoon3/tristringer_horizontal_pulling_green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10051,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "splatoon3/tristringer_horizontal_pulled_green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10052,
+                "pulling": 1
+            },
+            "model": "splatoon3/tristringer_vertical_green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10052,
+                "pulling": 1,
+                "pull": 0.5
+            },
+            "model": "splatoon3/tristringer_vertical_pulling_green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10052,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "splatoon3/tristringer_vertical_pulled_green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20051
+            },
+            "model": "splatoon3/tristringer_horizontal_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20051,
+                "pulling": 1,
+                "pull": 0.5
+            },
+            "model": "splatoon3/tristringer_horizontal_pulling_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20051,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "splatoon3/tristringer_horizontal_pulled_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20052,
+                "pulling": 1
+            },
+            "model": "splatoon3/tristringer_vertical_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20052,
+                "pulling": 1,
+                "pull": 0.5
+            },
+            "model": "splatoon3/tristringer_vertical_pulling_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20052,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "splatoon3/tristringer_vertical_pulled_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30051
+            },
+            "model": "splatoon3/tristringer_horizontal_purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30051,
+                "pulling": 1,
+                "pull": 0.5
+            },
+            "model": "splatoon3/tristringer_horizontal_pulling_purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30051,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "splatoon3/tristringer_horizontal_pulled_purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30052,
+                "pulling": 1
+            },
+            "model": "splatoon3/tristringer_vertical_purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30052,
+                "pulling": 1,
+                "pull": 0.5
+            },
+            "model": "splatoon3/tristringer_vertical_pulling_purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30052,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "splatoon3/tristringer_vertical_pulled_purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40051
+            },
+            "model": "splatoon3/tristringer_horizontal_yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40051,
+                "pulling": 1,
+                "pull": 0.5
+            },
+            "model": "splatoon3/tristringer_horizontal_pulling_yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40051,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "splatoon3/tristringer_horizontal_pulled_yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40052,
+                "pulling": 1
+            },
+            "model": "splatoon3/tristringer_vertical_yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40052,
+                "pulling": 1,
+                "pull": 0.5
+            },
+            "model": "splatoon3/tristringer_vertical_pulling_yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40052,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "splatoon3/tristringer_vertical_pulled_yellow"
+        }
+    ]
+}

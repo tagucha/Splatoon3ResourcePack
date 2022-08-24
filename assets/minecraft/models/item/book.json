@@ -1,0 +1,110 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/book"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "splatoon3/triple_tornado_jet_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10053
+      },
+      "model": "splatoon3/triple_tornado_jet_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20053
+      },
+      "model": "splatoon3/triple_tornado_jet_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20058
+      },
+      "model": "splatoon3/shark_ride_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30053
+      },
+      "model": "splatoon3/triple_tornado_jet_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40053
+      },
+      "model": "splatoon3/triple_tornado_jet_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100001
+      },
+      "model": "splatoon3/triple_tornado_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100002
+      },
+      "model": "splatoon3/triple_tornado_box_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100003
+      },
+      "model": "splatoon3/triple_tornado_box_balls"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100004
+      },
+      "model": "splatoon3/triple_tornado_box_opening_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100005
+      },
+      "model": "splatoon3/triple_tornado_box_opening_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100006
+      },
+      "model": "splatoon3/triple_tornado_box_opening_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100007
+      },
+      "model": "splatoon3/triple_tornado_box_opening_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100008
+      },
+      "model": "splatoon3/triple_tornado_box_opening_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100009
+      },
+      "model": "splatoon3/triple_tornado_box_opening_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100010
+      },
+      "model": "splatoon3/triple_tornado_box_opening_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100011
+      },
+      "model": "splatoon3/triple_tornado_box_opening_7"
+    }
+  ]
+}

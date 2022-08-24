@@ -1,0 +1,22 @@
+color(1~50000)
+51: tristringer_horizontal
+52: tristringer_vertical
+53: triple_tornado_jet
+54: splattershot_jr
+55: luna_blaster
+56: range_blaster
+57: blaster
+58: shark_ride
+
+out of color(100001~)
+1: triple_tornado_box
+2: triple_tornado_box_ball
+3: triple_tornado_box_balls
+4: triple_tornado_box_opening_0
+5: triple_tornado_box_opening_1
+6: triple_tornado_box_opening_2
+7: triple_tornado_box_opening_3
+8: triple_tornado_box_opening_4
+9: triple_tornado_box_opening_5
+10: triple_tornado_box_opening_6
+11: triple_tornado_box_opening_7

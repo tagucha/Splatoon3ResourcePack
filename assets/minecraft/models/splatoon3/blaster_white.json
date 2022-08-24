@@ -1,0 +1,6 @@
+{
+    "parent": "splatoon3/blaster_yellow",
+    "textures": {
+        "2": "splatoon3/blaster_bottle_white"
+    }
+}
